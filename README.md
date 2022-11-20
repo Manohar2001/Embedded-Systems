@@ -10,7 +10,7 @@ I am done this project by using google sheets Telegram bot as user Interface and
 
 Google sheet link:https://docs.google.com/spreadsheets/d/1ReKdbZrT2e5qlwbg_hHzKK0L-X_nI18vc3-gKS5_yLA/edit?usp=sharing
 
-Telegram BOT: t.me/I078_bot
+Telegram BOT: http://t.me/I078_bot
 
 
 
